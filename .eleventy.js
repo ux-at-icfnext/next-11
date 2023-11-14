@@ -1,4 +1,5 @@
 const yaml = require("js-yaml");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"src/assets/siteimg": "assets/siteimg"});
@@ -11,6 +12,8 @@ module.exports = function(eleventyConfig) {
     documentToHtmlString(value)
   );
 
+  eleventyConfig.addPlugin(syntaxHighlight);
+  
   /**************** Markdown Plugins********************/
   let markdownIt = require("markdown-it");
   var markdownItAttrs = require('markdown-it-attrs');
