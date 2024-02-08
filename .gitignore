@@ -1,9 +1,6 @@
 ### 11ty
 _site/
 node_modules/
-src/assets/img
-src/assets/uswds
-src/assets/css/styles.css
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,node
