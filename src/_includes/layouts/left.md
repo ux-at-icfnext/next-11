@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: layouts/base
 ---
 TODO: ADD breadcrumb option
 

@@ -1,0 +1,74 @@
+nav:
+  - title: Example Item
+    href: /
+  - title: Example with Sub
+    href: /#
+    subnav:
+      - title: Example Sub
+        href: /#
+      - title: Example Sub
+        href: /#
+      - title: Example Sub
+        href: /#
+  - title: '<i class="fa-solid fa-face-awesome"></i>  Example with icon'
+
+utls:
+  - title: Utility Nav Item
+    href: /
+  - title: Utility Nav Item
+    href: /
+
+foot:
+  - title: Link Example
+    href: /
+    subnav:
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+  - title: Link Example
+    href: /
+    subnav:
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+  - title: Link Example
+    href: /
+    subnav:
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+  - title: Link Example
+    href: /
+    subnav:
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+      - title: Example Sub
+        href: /
+
+social:
+  - icon: /assets/img/usa-icons/facebook.svg
+    alt: "Facebook"
+    link: /
+  - icon: /assets/img/usa-icons/twitter.svg
+    alt: "Twitter"
+    link: /
+  - icon: /assets/img/usa-icons/youtube.svg
+    alt: "YouTube"
+    link: /
+  - icon: /assets/img/usa-icons/instagram.svg
+    alt: "Instagram"
+    link: /
+  - icon: /assets/img/usa-icons/rss_feed.svg
+    alt: "RSS"
+    link: /
